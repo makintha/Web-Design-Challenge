@@ -16,6 +16,7 @@ Each of the website pages, contain the same `navigation bar`, to navigate betwee
 Another features, is that when the `cursor` hover above the `navbar` the background will change to lightgray.
 
 The followings are the structures of the repo:
+```
 |__Asset
     |__Fig1.png
     |__Fig2.png
@@ -34,3 +35,4 @@ The followings are the structures of the repo:
     |__index.html
     |__max_temp.html    
     |__style1.css    
+```
